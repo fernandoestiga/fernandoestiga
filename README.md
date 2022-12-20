@@ -4,6 +4,6 @@
 
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODE.JS AND REACT.
 
-- 📫 How to reach me: @fernandoestiga <img src="https://cdn-icons-png.flaticon.com/512/87/87390.png" width="20" height="20">
+- 📫 How to reach me: <img src="https://cdn-icons-png.flaticon.com/512/87/87390.png" width="15" height="15"> @fernandoestiga 
 
 - ⚡ Fun fact: I'm a mechanical engineer and in transition to being a fullstack developer.
